@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.App-logo {
+  height: 50vmin;
+  pointer-events: none;
+}
+.LoginText {
+  font-size: large;
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+  font-style: initial;
+}
