@@ -4,8 +4,8 @@ import "./App.css";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import * as AWS from "aws-sdk";
-const keyID = "AKIAUNQAIZXDRSPKXDFJ";
-const keyPass = "01a9QRt20YrixEz1pRzqdnoGN8Od1AGHIChB5SR4";
+const keyID = 
+const keyPass = 
 AWS.config.update({
   region: "us-west-2",
   endpoint: "dynamodb.us-west-2.amazonaws.com",
